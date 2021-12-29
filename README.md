@@ -1,4 +1,4 @@
-<h1>hello! I am Raissa<h1>
+hello! I am Raissa
 
 - 🎒 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me: uefsraissa@gmail.com
