@@ -1,7 +1,7 @@
 hello! I am Raissa
 
 - 🎒 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me: uefsraissa@gmail.com
+- 📫 You can find me <a href="mailto:uefsraissa@gmail.com"> here.</a>
 - 😄 Pronouns: she/her
 
 <div align="center">
