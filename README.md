@@ -1,6 +1,6 @@
 hello! I am Raissa
 
-- 🎒 I’m currently learning HTML, CSS and JavaScript
+- 🎒 I’m currently learning HTML, CSS, JavaScript and Python.
 - 📫 You can find me <a href="mailto:uefsraissa@gmail.com"> here.</a>
 - 😄 Pronouns: she/her
 
