@@ -1,4 +1,4 @@
-Oi, me chamo Raissa.
+Oi, me chamo raissa.
 
 - 🎒 Atualmente estou aprendendo HTML, CSS e JavaScript.
 - 📫 Você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
