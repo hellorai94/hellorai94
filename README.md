@@ -1,8 +1,8 @@
-hello! I am Raissa
+Oi, me chamo Raissa.
 
-- 🎒 I’m currently learning HTML, CSS, JavaScript and Python.
-- 📫 You can find me <a href="mailto:uefsraissa@gmail.com"> here.</a>
-- 😄 Pronouns: she/her
+- 🎒 Atualmente estou aprendendo HTML, CSS e JavaScript.
+- 📫 Você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
+- 😄 she/her
 
 <div align="center">
   <a href="https://github.com/hellorai94">
