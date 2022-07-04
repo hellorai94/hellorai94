@@ -1,6 +1,6 @@
 Oi, me chamo raissa.
 
-- 🎒 Atualmente estou aprendendo HTML, CSS e JavaScript.
+- 🎒 Atualmente estou aprendendo Cobol, HTML e CSS.
 - 📫 Você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
 - 😄 she/her
 
