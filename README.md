@@ -1,6 +1,6 @@
 Oi, me chamo raissa.
 
-- 🎒 Atualmente estou aprendendo Cobol, HTML e CSS.
+- 🎒 Atualmente estou aprendendo Cobol Batch, Cobol CICS, JCL.
 - 📫 Você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
 - 😄 she/her
 
