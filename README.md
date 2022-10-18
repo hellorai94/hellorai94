@@ -11,7 +11,7 @@ Oi, me chamo raissa.
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rai-cobol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg">
+  <img align="center" alt="Rai-cobol" height="30" width="40" src="https://icon-icons.com/pt/icone/COBOL/132525">
 </div>
 
   
