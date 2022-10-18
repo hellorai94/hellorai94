@@ -10,11 +10,6 @@ Oi, me chamo raissa.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellorai94&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rai-cobol" height="30" width="40" src="https://icon-icons.com/pt/icone/COBOL/132525">
-</div>
-
-  
   ##
   
   <div>
