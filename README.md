@@ -1,7 +1,7 @@
-Oi, me chamo raissa.
+hello, me chamo raissa.
 
-- 🎒 Atualmente estou aprendendo Cobol.
-- 📫 Você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
+- 🎒 atualmente estou aprendendo Cobol.
+- 📫 você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
 - 😄 she/her
 
 <div align="center">
