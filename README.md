@@ -1,6 +1,6 @@
 Olá, me chamo Raissa Carneiro.
 
-- 🎒 Atualmente estou aprendendo Cobol e C e estagiando com desenvolvimento mainframe
+- 🎒 Sou estagiária em desenvolvimento mainframe e estou focando meu aprendizado nas linguagens de programação Cobol e C. 
 - 📫 Você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
 
 <div align="center">
