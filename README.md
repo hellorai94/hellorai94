@@ -1,8 +1,7 @@
 hello, me chamo raissa.
 
-- 🎒 atualmente estou aprendendo Cobol e estagiando com desenvolvimento mainframe
-- 📫 você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
-- 😄 she/her
+- 🎒 Atualmente estou aprendendo Cobol e C e estagiando com desenvolvimento mainframe
+- 📫 Você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
 
 <div align="center">
   <a href="https://github.com/hellorai94">
