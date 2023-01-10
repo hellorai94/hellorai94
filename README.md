@@ -1,4 +1,4 @@
-hello, me chamo raissa.
+Olá, me chamo Raissa Carneiro.
 
 - 🎒 Atualmente estou aprendendo Cobol e C e estagiando com desenvolvimento mainframe
 - 📫 Você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
