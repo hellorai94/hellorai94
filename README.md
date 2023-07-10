@@ -1,7 +1,7 @@
 hello, me chamo raissa carneiro.
 
 - 🎒 sou estagiária em zConfig e atualmente estou focando meu aprendizado na linguagem de programação Python. 
-- 📫 você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
+- 📫 você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">me envia um e-mail :)</a>
 
 <div align="center">
   <a href="https://github.com/hellorai94">
