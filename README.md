@@ -1,4 +1,4 @@
-olá, me chamo raissa carneiro.
+hello, me chamo raissa carneiro.
 
 - 🎒 sou estagiária em zConfig e atualmente estou focando meu aprendizado na linguagem de programação Python. 
 - 📫 você pode me encontrar aqui: <a href="mailto:uefsraissa@gmail.com">meu e-mail</a>
