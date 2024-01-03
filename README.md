@@ -1,4 +1,4 @@
-hello, meu nome é raissa.
+Hello, meu nome é Raissa Carneiro.
 
 - 🎒 Sou estagiária em zConfig e atualmente estou focando meu aprendizado na linguagem de programação Python e no ambiente mainframe. 
 - 📫 <a href="mailto:uefsraissa@gmail.com">me envia um e-mail :)</a>
