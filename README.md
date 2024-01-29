@@ -2,7 +2,6 @@
 
 ## Sobre Mim
 - 🎒 Sou estagiária em zConfig, focando meu aprendizado em Python e no ambiente mainframe.
-- 🌱 Atualmente, estou aprimorando minhas habilidades em programação.
 
 ## Contato
 - 📫 **E-mail:** [uefsraissa@gmail.com](mailto:uefsraissa@gmail.com)
