@@ -1,7 +1,7 @@
 # Olá, meu nome é Raissa Carneiro 👋
 
 ## Sobre Mim
-- 🎒 Sou estagiária em zConfig, focando em Python e no ambiente mainframe.
+- 🎒 Sou estagiária em zConfig, focando meu aprendizado em Python e no ambiente mainframe.
 - 🌱 Atualmente, estou aprimorando minhas habilidades em programação.
 
 ## Contato
