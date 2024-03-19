@@ -1,4 +1,4 @@
-Hello, meu nome é Raissa Carneiro e atualmente eu sou estagiária em zConfig, focando meu aprendizado em Python e no ambiente mainframe.
+Hello, meu nome é raissa carneiro e atualmente eu sou estagiária em zConfig, focando meu aprendizado em Python e no ambiente mainframe.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellorai94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
